@@ -1,0 +1,17 @@
+.login {
+    background: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.login .form-content {
+    background: #fff;
+    padding: 3vh;
+    max-height: 80vh;
+    border-radius: 4vh;
+    box-shadow: 0px 0px 10px 0px #fff;
+}
+.dflex{
+	display: flex;
+}
